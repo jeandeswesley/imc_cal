@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1668951729, 808369159]
+build_end_time: [1668951738, 387459993]
+inputs:
+  "/Volumes/Arquivos/Project/flutter/curso_fluuter/imc_calculator/imc_calculator/macos/Flutter/GeneratedPluginRegistrant.swift": [1668951703, 179999828]
+  "/Volumes/Arquivos/Project/flutter/curso_fluuter/imc_calculator/imc_calculator/macos/Runner/AppDelegate.swift": [1668016569, 0]
+  "/Volumes/Arquivos/Project/flutter/curso_fluuter/imc_calculator/imc_calculator/macos/Runner/MainFlutterWindow.swift": [1668016569, 0]

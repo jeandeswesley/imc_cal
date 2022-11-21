@@ -1,0 +1,4 @@
+#Sun Nov 20 16:57:21 BRT 2022
+base.0=/Volumes/Arquivos/Project/flutter/curso_fluuter/imc_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
